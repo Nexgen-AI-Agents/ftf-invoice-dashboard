@@ -1382,7 +1382,7 @@
     },
     {
       "order_id": "1000283728",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": "Land Survey Only",
       "customer_email": "diti@horizoncrr.com",
       "client_name": "DITI  GLAZER",
@@ -1392,7 +1392,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-02T14:36:06.879142+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1401,11 +1401,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T14:27:47.752552+00:00",
-      "updated_at": "2026-06-02T14:27:47.752552+00:00"
+      "updated_at": "2026-06-02T14:36:06.892502+00:00"
     },
     {
       "order_id": "1000283564",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": "Land Survey Only",
       "customer_email": "admin@sabollaw.com",
       "client_name": "Law Offices of Cary P. Sabol",
@@ -1415,7 +1415,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-02T14:36:13.594005+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1424,11 +1424,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T14:27:47.821363+00:00",
-      "updated_at": "2026-06-02T14:27:47.821363+00:00"
+      "updated_at": "2026-06-02T14:36:13.609752+00:00"
     },
     {
       "order_id": "1000283532",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": "Quote",
       "customer_email": "Office@bcminc.net",
       "client_name": "Bartlett Construction Management, Inc.",
@@ -1438,7 +1438,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-02T14:36:21.532373+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1447,11 +1447,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T14:27:47.855403+00:00",
-      "updated_at": "2026-06-02T14:27:47.855403+00:00"
+      "updated_at": "2026-06-02T14:36:21.547821+00:00"
     },
     {
       "order_id": "1000283524",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": "Land Survey Only",
       "customer_email": "sknsv10@gmail.com",
       "client_name": "Steve Livingston",
@@ -1461,7 +1461,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-02T14:36:28.403105+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1470,11 +1470,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T14:27:47.888621+00:00",
-      "updated_at": "2026-06-02T14:27:47.888621+00:00"
+      "updated_at": "2026-06-02T14:36:28.418278+00:00"
     },
     {
       "order_id": "1000283486",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": "CAD",
       "customer_email": "gmb@raslg.com",
       "client_name": "Garrett Bender",
@@ -1484,7 +1484,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-02T14:36:35.318377+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1493,7 +1493,7 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T14:27:47.923734+00:00",
-      "updated_at": "2026-06-02T14:27:47.923734+00:00"
+      "updated_at": "2026-06-02T14:36:35.332888+00:00"
     },
     {
       "order_id": "1000283289",
@@ -1796,9 +1796,9 @@
     }
   ],
   "status_counts": {
-    "details_missing": 60,
-    "invoice_needed": 18
+    "details_missing": 65,
+    "invoice_needed": 13
   },
   "total": 78,
-  "generated_at": "2026-06-02T14:33:36.267976+00:00"
+  "generated_at": "2026-06-02T14:36:35.820351+00:00"
 }

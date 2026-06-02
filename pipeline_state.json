@@ -12,7 +12,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:08:13.383118+00:00",
+      "data_collected_at": "2026-06-02T13:25:25.541825+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -21,7 +21,7 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.489948+00:00",
-      "updated_at": "2026-06-02T13:08:13.392917+00:00"
+      "updated_at": "2026-06-02T13:25:25.553075+00:00"
     },
     {
       "order_id": "1000284560",
@@ -35,7 +35,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:08:34.029436+00:00",
+      "data_collected_at": "2026-06-02T13:25:46.213219+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -44,7 +44,7 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.506677+00:00",
-      "updated_at": "2026-06-02T13:08:34.040132+00:00"
+      "updated_at": "2026-06-02T13:25:46.225176+00:00"
     },
     {
       "order_id": "1000284559",
@@ -58,7 +58,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:08:53.838107+00:00",
+      "data_collected_at": "2026-06-02T13:26:06.500527+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -67,11 +67,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.522197+00:00",
-      "updated_at": "2026-06-02T13:08:53.848321+00:00"
+      "updated_at": "2026-06-02T13:26:06.511725+00:00"
     },
     {
       "order_id": "1000284558",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "quotes@nexgensurveying.com",
       "client_name": "Nexgen Land Solutions, LLC",
@@ -81,7 +81,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:09:13.909227+00:00",
+      "data_collected_at": "2026-06-02T12:17:17.008517+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -90,11 +90,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.539134+00:00",
-      "updated_at": "2026-06-02T13:09:13.919132+00:00"
+      "updated_at": "2026-06-02T13:04:37.168127"
     },
     {
       "order_id": "1000284524",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "CAD file",
       "customer_email": "lbelectric88@gmail.com",
       "client_name": "Donahue Francis",
@@ -104,7 +104,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:09:34.005304+00:00",
+      "data_collected_at": "2026-06-02T12:17:18.808530+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -113,11 +113,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.554603+00:00",
-      "updated_at": "2026-06-02T13:09:34.015863+00:00"
+      "updated_at": "2026-06-02T13:04:37.168151"
     },
     {
       "order_id": "1000284508",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "whyde@designrarchitects.com",
       "client_name": "Walter  Hyde III",
@@ -127,7 +127,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:09:54.392216+00:00",
+      "data_collected_at": "2026-06-02T12:17:20.733620+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -136,11 +136,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.570449+00:00",
-      "updated_at": "2026-06-02T13:09:54.402005+00:00"
+      "updated_at": "2026-06-02T13:04:37.168175"
     },
     {
       "order_id": "1000284507",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "amullins@jdgrossolaw.com",
       "client_name": "Joseph D. Grosso Jr., P.A.",
@@ -150,7 +150,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:10:14.303598+00:00",
+      "data_collected_at": "2026-06-02T12:17:22.632923+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -159,11 +159,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.587268+00:00",
-      "updated_at": "2026-06-02T13:10:14.313290+00:00"
+      "updated_at": "2026-06-02T13:04:37.168199"
     },
     {
       "order_id": "1000284503",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "vmazina@yahoo.com",
       "client_name": "Valentina Mazina",
@@ -173,7 +173,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:10:34.577266+00:00",
+      "data_collected_at": "2026-06-02T12:17:24.704602+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -182,11 +182,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.637354+00:00",
-      "updated_at": "2026-06-02T13:10:34.587589+00:00"
+      "updated_at": "2026-06-02T13:04:37.168223"
     },
     {
       "order_id": "1000284488",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "robertsmoot@hotmail.com",
       "client_name": "Robert Smoot",
@@ -196,7 +196,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:10:54.597957+00:00",
+      "data_collected_at": "2026-06-02T12:17:26.571415+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -205,11 +205,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.655228+00:00",
-      "updated_at": "2026-06-02T13:10:54.607710+00:00"
+      "updated_at": "2026-06-02T13:04:37.168254"
     },
     {
       "order_id": "1000284479",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "sdr.isabel@gmail.com",
       "client_name": "Isabel Gordon",
@@ -219,7 +219,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:11:14.811030+00:00",
+      "data_collected_at": "2026-06-02T12:17:28.414556+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -228,11 +228,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.672567+00:00",
-      "updated_at": "2026-06-02T13:11:14.821091+00:00"
+      "updated_at": "2026-06-02T13:04:37.168277"
     },
     {
       "order_id": "1000284474",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey and Elevation",
       "customer_email": "puntagorda@suncoastone.net",
       "client_name": "Punta Gorda - Suncoast One Title & Closings, Inc.",
@@ -242,7 +242,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:11:35.089306+00:00",
+      "data_collected_at": "2026-06-02T12:17:30.411042+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -251,11 +251,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.690772+00:00",
-      "updated_at": "2026-06-02T13:11:35.100847+00:00"
+      "updated_at": "2026-06-02T13:04:37.168300"
     },
     {
       "order_id": "1000284470",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "NikkiLeigh@heightstitle.com",
       "client_name": "Heights Title Services, LLC",
@@ -265,7 +265,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:11:55.056026+00:00",
+      "data_collected_at": "2026-06-02T12:17:32.455775+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -274,11 +274,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.708738+00:00",
-      "updated_at": "2026-06-02T13:11:55.065879+00:00"
+      "updated_at": "2026-06-02T13:04:37.168325"
     },
     {
       "order_id": "1000284466",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "CAD",
       "customer_email": "alison@stevecuryconstruction.com",
       "client_name": "Steve Cury Construction",
@@ -288,7 +288,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:12:15.039885+00:00",
+      "data_collected_at": "2026-06-02T12:17:34.305630+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -297,11 +297,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.727250+00:00",
-      "updated_at": "2026-06-02T13:12:15.049706+00:00"
+      "updated_at": "2026-06-02T13:04:37.168349"
     },
     {
       "order_id": "1000284462",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "CAD",
       "customer_email": "alison@stevecuryconstruction.com",
       "client_name": "Steve Cury Construction",
@@ -311,7 +311,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:12:35.060641+00:00",
+      "data_collected_at": "2026-06-02T12:17:36.237697+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -320,11 +320,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.746530+00:00",
-      "updated_at": "2026-06-02T13:12:35.102085+00:00"
+      "updated_at": "2026-06-02T13:04:37.168372"
     },
     {
       "order_id": "1000284440",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "ahenick@rdmanagement.com",
       "client_name": "RD Management",
@@ -334,7 +334,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:12:54.805476+00:00",
+      "data_collected_at": "2026-06-02T12:17:38.609131+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -343,11 +343,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.767153+00:00",
-      "updated_at": "2026-06-02T13:12:54.815236+00:00"
+      "updated_at": "2026-06-02T13:04:37.168396"
     },
     {
       "order_id": "1000284429",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "debbiemyers@exitcompassrealty.com",
       "client_name": "Deborah Myers",
@@ -357,7 +357,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:13:14.655365+00:00",
+      "data_collected_at": "2026-06-02T12:17:40.503915+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -366,11 +366,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.786644+00:00",
-      "updated_at": "2026-06-02T13:13:14.665081+00:00"
+      "updated_at": "2026-06-02T13:04:37.168419"
     },
     {
       "order_id": "1000284400",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "bart@whiteeaglehomesfl.com",
       "client_name": "Bart Magerczyk",
@@ -380,7 +380,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:13:34.540597+00:00",
+      "data_collected_at": "2026-06-02T12:17:42.285182+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -389,11 +389,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.806090+00:00",
-      "updated_at": "2026-06-02T13:13:34.551148+00:00"
+      "updated_at": "2026-06-02T13:04:37.168442"
     },
     {
       "order_id": "1000284390",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "Brian@allstatecomputers.com",
       "client_name": "Brian",
@@ -403,7 +403,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:13:54.911212+00:00",
+      "data_collected_at": "2026-06-02T12:17:44.334240+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -412,11 +412,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.827301+00:00",
-      "updated_at": "2026-06-02T13:13:54.920909+00:00"
+      "updated_at": "2026-06-02T13:04:37.168479"
     },
     {
       "order_id": "1000284388",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "marie@firstprioritytitleco.com",
       "client_name": "First Priority Title Company",
@@ -426,7 +426,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:14:15.280559+00:00",
+      "data_collected_at": "2026-06-02T12:17:46.173273+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -435,11 +435,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.847786+00:00",
-      "updated_at": "2026-06-02T13:14:15.290348+00:00"
+      "updated_at": "2026-06-02T13:04:37.168502"
     },
     {
       "order_id": "1000284366",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": null,
       "customer_email": "leslie.fishermanstitle@gmail.com",
       "client_name": "Fishermans Title and All Clear Title Services",
@@ -449,7 +449,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:14:35.514072+00:00",
+      "data_collected_at": "2026-06-02T12:17:48.131938+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -458,11 +458,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.870173+00:00",
-      "updated_at": "2026-06-02T13:14:35.524743+00:00"
+      "updated_at": "2026-06-02T13:04:37.168525"
     },
     {
       "order_id": "1000284324",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "lr@cohennorris.com",
       "client_name": "Cohen, Norris, Wolmer, Ray, Telepman and Cohen",
@@ -472,7 +472,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:14:55.595763+00:00",
+      "data_collected_at": "2026-06-02T12:17:50.120696+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -481,11 +481,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.893495+00:00",
-      "updated_at": "2026-06-02T13:14:55.605750+00:00"
+      "updated_at": "2026-06-02T13:04:37.168548"
     },
     {
       "order_id": "1000284317",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "quotes@nexgensurveying.com",
       "client_name": "Nexgen Land Solutions, LLC",
@@ -495,7 +495,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:15:15.370694+00:00",
+      "data_collected_at": "2026-06-02T12:17:51.877841+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -504,11 +504,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.915731+00:00",
-      "updated_at": "2026-06-02T13:15:15.380459+00:00"
+      "updated_at": "2026-06-02T13:04:37.168571"
     },
     {
       "order_id": "1000284316",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "quotes@nexgensurveying.com",
       "client_name": "Nexgen Land Solutions, LLC",
@@ -518,7 +518,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:15:35.327204+00:00",
+      "data_collected_at": "2026-06-02T12:17:53.699232+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -527,11 +527,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.938970+00:00",
-      "updated_at": "2026-06-02T13:15:35.337705+00:00"
+      "updated_at": "2026-06-02T13:04:37.168593"
     },
     {
       "order_id": "1000284310",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "quotes@nexgensurveying.com",
       "client_name": "Nexgen Land Solutions, LLC",
@@ -541,7 +541,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:15:55.239092+00:00",
+      "data_collected_at": "2026-06-02T12:17:55.671561+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -550,11 +550,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.961313+00:00",
-      "updated_at": "2026-06-02T13:15:55.248960+00:00"
+      "updated_at": "2026-06-02T13:04:37.168617"
     },
     {
       "order_id": "1000284303",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "robin.rankin@foxfirerealty.com",
       "client_name": "Robin Rankin",
@@ -564,7 +564,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:16:15.116963+00:00",
+      "data_collected_at": "2026-06-02T12:17:57.666497+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -573,11 +573,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:07.983638+00:00",
-      "updated_at": "2026-06-02T13:16:15.126758+00:00"
+      "updated_at": "2026-06-02T13:04:37.168638"
     },
     {
       "order_id": "1000284284",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "kagosto@lighthousetitleservices.com",
       "client_name": "Lighthouse Title Services LLC",
@@ -587,7 +587,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:16:35.230290+00:00",
+      "data_collected_at": "2026-06-02T12:17:59.523233+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -596,11 +596,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.007235+00:00",
-      "updated_at": "2026-06-02T13:16:35.240881+00:00"
+      "updated_at": "2026-06-02T13:04:37.168660"
     },
     {
       "order_id": "1000284265",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "office3@oceanview-b.com",
       "client_name": "Sandra Lalaian",
@@ -610,7 +610,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:16:55.079473+00:00",
+      "data_collected_at": "2026-06-02T12:18:01.492184+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -619,11 +619,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.029667+00:00",
-      "updated_at": "2026-06-02T13:16:55.089324+00:00"
+      "updated_at": "2026-06-02T13:04:37.168688"
     },
     {
       "order_id": "1000284231",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "CAD",
       "customer_email": "cy@greendoorconstructioninc.com",
       "client_name": "Green Door Construction, Inc.",
@@ -633,7 +633,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:17:15.104537+00:00",
+      "data_collected_at": "2026-06-02T12:18:03.347515+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -642,11 +642,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.052634+00:00",
-      "updated_at": "2026-06-02T13:17:15.114219+00:00"
+      "updated_at": "2026-06-02T13:04:37.168710"
     },
     {
       "order_id": "1000284224",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "Jean@CascioLawOffice.com",
       "client_name": "Law Offices of Jean Cascio, PLLC",
@@ -656,7 +656,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:17:35.111850+00:00",
+      "data_collected_at": "2026-06-02T12:18:05.133060+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -665,11 +665,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.077388+00:00",
-      "updated_at": "2026-06-02T13:17:35.123078+00:00"
+      "updated_at": "2026-06-02T13:04:37.168733"
     },
     {
       "order_id": "1000284223",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "cpsmbuilders@gmail.com",
       "client_name": "Robert Calarko",
@@ -679,7 +679,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:17:55.146986+00:00",
+      "data_collected_at": "2026-06-02T12:18:07.037192+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -688,11 +688,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.101962+00:00",
-      "updated_at": "2026-06-02T13:17:55.157030+00:00"
+      "updated_at": "2026-06-02T13:04:37.168757"
     },
     {
       "order_id": "1000284170",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "CAD",
       "customer_email": "jr@reddittarchitecture.com",
       "client_name": "Jonathan Reddit",
@@ -702,7 +702,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:18:15.075236+00:00",
+      "data_collected_at": "2026-06-02T12:18:08.883118+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -711,11 +711,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.133615+00:00",
-      "updated_at": "2026-06-02T13:18:15.084780+00:00"
+      "updated_at": "2026-06-02T13:04:37.168779"
     },
     {
       "order_id": "1000284168",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "ivy@closingtemafl.com",
       "client_name": "The Closing Team Title & Escrow Services",
@@ -725,7 +725,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:18:34.807358+00:00",
+      "data_collected_at": "2026-06-02T12:18:10.872078+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -734,11 +734,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.157589+00:00",
-      "updated_at": "2026-06-02T13:18:34.817758+00:00"
+      "updated_at": "2026-06-02T13:04:37.168802"
     },
     {
       "order_id": "1000284163",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "w.u.g.o.c.ava771@gmail.com",
       "client_name": "DzVTnmfrWfbGndZjh",
@@ -748,7 +748,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:18:54.563094+00:00",
+      "data_collected_at": "2026-06-02T12:18:12.713202+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -757,11 +757,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.182212+00:00",
-      "updated_at": "2026-06-02T13:18:54.572690+00:00"
+      "updated_at": "2026-06-02T13:04:37.168825"
     },
     {
       "order_id": "1000284162",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "w.u.g.o.c.ava771@gmail.com",
       "client_name": "DzVTnmfrWfbGndZjh",
@@ -771,7 +771,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:19:14.687881+00:00",
+      "data_collected_at": "2026-06-02T12:18:14.627652+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -780,11 +780,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.208715+00:00",
-      "updated_at": "2026-06-02T13:19:14.697515+00:00"
+      "updated_at": "2026-06-02T13:04:37.168848"
     },
     {
       "order_id": "1000284150",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey and Elevation, ",
       "customer_email": "jeremyrivera@FTGAgency.com",
       "client_name": "Jeremy Rivera",
@@ -794,7 +794,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:19:35.014294+00:00",
+      "data_collected_at": "2026-06-02T12:18:16.496987+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -803,11 +803,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.234909+00:00",
-      "updated_at": "2026-06-02T13:19:35.024693+00:00"
+      "updated_at": "2026-06-02T13:04:37.168870"
     },
     {
       "order_id": "1000284123",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "dchuslo@aol.com",
       "client_name": "BETX Engineering inc.",
@@ -817,7 +817,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:19:55.086567+00:00",
+      "data_collected_at": "2026-06-02T12:18:19.178644+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -826,11 +826,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.264390+00:00",
-      "updated_at": "2026-06-02T13:19:55.096392+00:00"
+      "updated_at": "2026-06-02T13:04:37.168893"
     },
     {
       "order_id": "1000284112",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "nrodriguez@TUFFSHED.com",
       "client_name": "Naya Rodriguez",
@@ -840,7 +840,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:20:15.092602+00:00",
+      "data_collected_at": "2026-06-02T12:18:21.205930+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -849,11 +849,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.291222+00:00",
-      "updated_at": "2026-06-02T13:20:15.102339+00:00"
+      "updated_at": "2026-06-02T13:04:37.168915"
     },
     {
       "order_id": "1000284111",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "flgirlintx@gmail.com",
       "client_name": "TIMOTHY MATZ ",
@@ -863,7 +863,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:20:34.786503+00:00",
+      "data_collected_at": "2026-06-02T12:18:22.997360+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -872,11 +872,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.318131+00:00",
-      "updated_at": "2026-06-02T13:20:34.796919+00:00"
+      "updated_at": "2026-06-02T13:04:37.168937"
     },
     {
       "order_id": "1000284101",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "soldbysandy@gmail.com",
       "client_name": "Sandy Jackson",
@@ -886,7 +886,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:20:54.859931+00:00",
+      "data_collected_at": "2026-06-02T12:18:24.953413+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -895,11 +895,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.345084+00:00",
-      "updated_at": "2026-06-02T13:20:54.870515+00:00"
+      "updated_at": "2026-06-02T13:04:37.168961"
     },
     {
       "order_id": "1000284093",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "gabriellechinre@gmail.com",
       "client_name": "5530 Thoroughbred, SW Ranches, 33330",
@@ -909,7 +909,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:21:14.549579+00:00",
+      "data_collected_at": "2026-06-02T12:18:26.910700+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -918,11 +918,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.381615+00:00",
-      "updated_at": "2026-06-02T13:21:14.559435+00:00"
+      "updated_at": "2026-06-02T13:04:37.168983"
     },
     {
       "order_id": "1000284076",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "sam@flyingpointre.com",
       "client_name": "Sam Genet",
@@ -932,7 +932,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:21:34.329869+00:00",
+      "data_collected_at": "2026-06-02T12:18:29.245188+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -941,11 +941,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.409130+00:00",
-      "updated_at": "2026-06-02T13:21:34.340479+00:00"
+      "updated_at": "2026-06-02T13:04:37.169006"
     },
     {
       "order_id": "1000284075",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "sam@flyingpointre.com",
       "client_name": "Sam Genet",
@@ -955,7 +955,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:21:54.151916+00:00",
+      "data_collected_at": "2026-06-02T12:18:31.161115+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -964,11 +964,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.435963+00:00",
-      "updated_at": "2026-06-02T13:21:54.161678+00:00"
+      "updated_at": "2026-06-02T13:04:37.169031"
     },
     {
       "order_id": "1000284074",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "sam@flyingpointre.com",
       "client_name": "Sam Genet",
@@ -978,7 +978,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:22:13.863856+00:00",
+      "data_collected_at": "2026-06-02T12:18:33.110028+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -987,11 +987,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.464260+00:00",
-      "updated_at": "2026-06-02T13:22:13.873678+00:00"
+      "updated_at": "2026-06-02T13:04:37.169053"
     },
     {
       "order_id": "1000284061",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey and Elevation",
       "customer_email": "bsantiago@williamsparker.com",
       "client_name": "WILLIAMS PARKER",
@@ -1001,7 +1001,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:22:33.825095+00:00",
+      "data_collected_at": "2026-06-02T12:18:34.964548+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1010,11 +1010,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.492520+00:00",
-      "updated_at": "2026-06-02T13:22:33.835528+00:00"
+      "updated_at": "2026-06-02T13:04:37.169076"
     },
     {
       "order_id": "1000284057",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "processing@floridasecuredtitle.com",
       "client_name": "Florida Secured Title LLC",
@@ -1024,7 +1024,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:22:53.737228+00:00",
+      "data_collected_at": "2026-06-02T12:18:36.786439+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1033,11 +1033,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.522369+00:00",
-      "updated_at": "2026-06-02T13:22:53.746850+00:00"
+      "updated_at": "2026-06-02T13:04:37.169100"
     },
     {
       "order_id": "1000284017",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "crosario@clfarchitects.com",
       "client_name": "Choeff Levy Fischman Architecture and Design",
@@ -1047,7 +1047,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:23:13.705057+00:00",
+      "data_collected_at": "2026-06-02T12:18:38.564997+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1056,11 +1056,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.553319+00:00",
-      "updated_at": "2026-06-02T13:23:13.714961+00:00"
+      "updated_at": "2026-06-02T13:04:37.169123"
     },
     {
       "order_id": "1000284011",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Quote",
       "customer_email": "kristie@meridianpartnerslaw.com",
       "client_name": "Meridian Partners",
@@ -1070,7 +1070,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:23:33.452338+00:00",
+      "data_collected_at": "2026-06-02T12:18:40.589283+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1079,11 +1079,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.584413+00:00",
-      "updated_at": "2026-06-02T13:23:33.463288+00:00"
+      "updated_at": "2026-06-02T13:04:37.169146"
     },
     {
       "order_id": "1000284009",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Boundary Survey",
       "customer_email": "Jean@CascioLawOffice.com",
       "client_name": "Law Offices of Jean Cascio, PLLC",
@@ -1093,7 +1093,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:23:53.158450+00:00",
+      "data_collected_at": "2026-06-02T12:18:42.487618+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1102,11 +1102,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.613575+00:00",
-      "updated_at": "2026-06-02T13:23:53.168152+00:00"
+      "updated_at": "2026-06-02T13:04:37.169170"
     },
     {
       "order_id": "1000283998",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "jason.htconstruction@gmail.com",
       "client_name": "Rupli Residence",
@@ -1116,7 +1116,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:24:12.999619+00:00",
+      "data_collected_at": "2026-06-02T12:18:45.637863+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1125,11 +1125,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.690139+00:00",
-      "updated_at": "2026-06-02T13:24:13.009122+00:00"
+      "updated_at": "2026-06-02T13:04:37.169193"
     },
     {
       "order_id": "1000283997",
-      "status": "details_missing",
+      "status": "invoice_needed",
       "service_type": "Land Survey Only",
       "customer_email": "mmasser@pdconcepts.com",
       "client_name": "Mark Masser",
@@ -1139,7 +1139,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": "2026-06-02T13:24:32.752788+00:00",
+      "data_collected_at": "2026-06-02T12:18:47.440251+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -1148,12 +1148,13 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-02T12:17:08.720211+00:00",
-      "updated_at": "2026-06-02T13:24:32.763255+00:00"
+      "updated_at": "2026-06-02T13:04:37.169215"
     }
   ],
   "status_counts": {
-    "details_missing": 50
+    "details_missing": 3,
+    "invoice_needed": 47
   },
   "total": 50,
-  "generated_at": "2026-06-02T13:24:33.345907+00:00"
+  "generated_at": "2026-06-02T13:26:23.353984+00:00"
 }

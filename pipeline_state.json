@@ -8725,5 +8725,9 @@
     "invoice_finalized": 1
   },
   "total": 379,
+<<<<<<< HEAD
   "generated_at": "2026-06-03T00:42:19.283208+00:00"
+=======
+  "generated_at": "2026-06-03T00:45:19.477069+00:00"
+>>>>>>> 23290b7 (chore: update pipeline state [skip ci])
 }

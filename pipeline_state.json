@@ -8959,11 +8959,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:32:48.366284+00:00",
-=======
-      "data_collected_at": "2026-06-03T14:36:00.801432+00:00",
->>>>>>> c066cab (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -8972,11 +8968,7 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:50.473990+00:00",
-<<<<<<< HEAD
       "updated_at": "2026-06-03T14:32:48.422653+00:00"
-=======
-      "updated_at": "2026-06-03T14:36:00.859601+00:00"
->>>>>>> c066cab (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284572",
@@ -8990,11 +8982,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:32:59.848396+00:00",
-=======
-      "data_collected_at": "2026-06-03T14:36:15.334258+00:00",
->>>>>>> c066cab (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -9003,11 +8991,7 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:50.714657+00:00",
-<<<<<<< HEAD
       "updated_at": "2026-06-03T14:32:59.906161+00:00"
-=======
-      "updated_at": "2026-06-03T14:36:15.391871+00:00"
->>>>>>> c066cab (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284571",
@@ -9021,11 +9005,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:33:11.649741+00:00",
-=======
-      "data_collected_at": "2026-06-03T14:36:26.793933+00:00",
->>>>>>> c066cab (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -9034,11 +9014,7 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:51.014904+00:00",
-<<<<<<< HEAD
       "updated_at": "2026-06-03T14:33:11.706986+00:00"
-=======
-      "updated_at": "2026-06-03T14:36:26.852445+00:00"
->>>>>>> c066cab (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284570",
@@ -9052,11 +9028,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:33:22.671043+00:00",
-=======
-      "data_collected_at": "2026-06-03T14:36:37.898189+00:00",
->>>>>>> c066cab (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -9065,11 +9037,7 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:51.257951+00:00",
-<<<<<<< HEAD
       "updated_at": "2026-06-03T14:33:22.728295+00:00"
-=======
-      "updated_at": "2026-06-03T14:36:37.956784+00:00"
->>>>>>> c066cab (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284569",
@@ -9083,11 +9051,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:33:32.743203+00:00",
-=======
-      "data_collected_at": "2026-06-03T14:36:49.780809+00:00",
->>>>>>> c066cab (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -9096,15 +9060,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:51.560599+00:00",
-<<<<<<< HEAD
       "updated_at": "2026-06-03T14:33:32.800808+00:00"
-=======
-      "updated_at": "2026-06-03T14:36:49.840086+00:00"
->>>>>>> c066cab (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284568",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": null,
       "customer_email": "missy.vancil@flagency.net",
       "client_name": "Hillsborough Title of South Shore",
@@ -9114,7 +9074,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-03T14:38:57.831913+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -9123,11 +9083,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:51.802264+00:00",
-      "updated_at": "2026-06-03T14:18:51.802264+00:00"
+      "updated_at": "2026-06-03T14:38:57.912573+00:00"
     },
     {
       "order_id": "1000284567",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": null,
       "customer_email": "missy.vancil@flagency.net",
       "client_name": "Hillsborough Title of South Shore",
@@ -9137,7 +9097,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-03T14:39:08.391072+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -9146,11 +9106,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:52.095496+00:00",
-      "updated_at": "2026-06-03T14:18:52.095496+00:00"
+      "updated_at": "2026-06-03T14:39:08.466808+00:00"
     },
     {
       "order_id": "1000284566",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": null,
       "customer_email": "missy.vancil@flagency.net",
       "client_name": "Hillsborough Title of South Shore",
@@ -9160,7 +9120,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-03T14:39:19.348320+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -9169,11 +9129,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:52.340723+00:00",
-      "updated_at": "2026-06-03T14:18:52.340723+00:00"
+      "updated_at": "2026-06-03T14:39:19.423133+00:00"
     },
     {
       "order_id": "1000284565",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": null,
       "customer_email": "missy.vancil@flagency.net",
       "client_name": "Hillsborough Title of South Shore",
@@ -9183,7 +9143,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-03T14:39:30.992932+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -9192,11 +9152,11 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:52.581724+00:00",
-      "updated_at": "2026-06-03T14:18:52.581724+00:00"
+      "updated_at": "2026-06-03T14:39:31.067687+00:00"
     },
     {
       "order_id": "1000284564",
-      "status": "invoice_needed",
+      "status": "details_missing",
       "service_type": null,
       "customer_email": "missy.vancil@flagency.net",
       "client_name": "Hillsborough Title of South Shore",
@@ -9206,7 +9166,7 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
-      "data_collected_at": null,
+      "data_collected_at": "2026-06-03T14:39:42.382257+00:00",
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -9215,7 +9175,7 @@
       "estimate_amount": null,
       "deferred_until": null,
       "created_at": "2026-06-03T14:18:52.895782+00:00",
-      "updated_at": "2026-06-03T14:18:52.895782+00:00"
+      "updated_at": "2026-06-03T14:39:42.457300+00:00"
     },
     {
       "order_id": "1000284563",
@@ -9265,15 +9225,11 @@
     }
   ],
   "status_counts": {
-    "details_missing": 76,
+    "details_missing": 81,
     "invoice_draft_posted": 317,
     "invoice_finalized": 1,
-    "invoice_needed": 7
+    "invoice_needed": 2
   },
   "total": 401,
-<<<<<<< HEAD
-  "generated_at": "2026-06-03T14:34:40.657424+00:00"
-=======
-  "generated_at": "2026-06-03T14:37:44.145153+00:00"
->>>>>>> c066cab (chore: update pipeline state [skip ci])
+  "generated_at": "2026-06-03T14:40:43.727110+00:00"
 }

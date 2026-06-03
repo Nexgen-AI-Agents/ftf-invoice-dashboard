@@ -3946,7 +3946,11 @@
       "modification_count": 0,
       "invoice_id": null,
       "data_collected_at": "2026-06-02T18:00:52.626325+00:00",
+<<<<<<< HEAD
       "draft_posted_at": "2026-06-03T14:20:32.532690+00:00",
+=======
+      "draft_posted_at": "2026-06-03T14:24:47.442664+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "invoice_created_at": null,
       "processed_reply_ids": null,
       "approved_by": null,
@@ -3954,7 +3958,11 @@
       "estimate_amount": 0,
       "deferred_until": null,
       "created_at": "2026-06-02T16:08:18.705053+00:00",
+<<<<<<< HEAD
       "updated_at": "2026-06-03T14:20:32.664136+00:00"
+=======
+      "updated_at": "2026-06-03T14:24:47.569007+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000273343",
@@ -5073,7 +5081,11 @@
       "modification_count": 0,
       "invoice_id": null,
       "data_collected_at": "2026-06-02T19:00:55.107755+00:00",
+<<<<<<< HEAD
       "draft_posted_at": "2026-06-03T14:20:35.832526+00:00",
+=======
+      "draft_posted_at": "2026-06-03T14:24:51.906613+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "invoice_created_at": null,
       "processed_reply_ids": null,
       "approved_by": null,
@@ -5081,7 +5093,11 @@
       "estimate_amount": 0,
       "deferred_until": null,
       "created_at": "2026-06-02T16:12:16.551865+00:00",
+<<<<<<< HEAD
       "updated_at": "2026-06-03T14:20:35.908110+00:00"
+=======
+      "updated_at": "2026-06-03T14:24:51.985437+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000268354",
@@ -6062,7 +6078,11 @@
       "modification_count": 0,
       "invoice_id": null,
       "data_collected_at": "2026-06-02T19:57:39.537025+00:00",
+<<<<<<< HEAD
       "draft_posted_at": "2026-06-03T14:20:39.839084+00:00",
+=======
+      "draft_posted_at": "2026-06-03T14:24:56.864303+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "invoice_created_at": null,
       "processed_reply_ids": null,
       "approved_by": null,
@@ -6070,7 +6090,11 @@
       "estimate_amount": 0,
       "deferred_until": null,
       "created_at": "2026-06-02T16:12:20.742292+00:00",
+<<<<<<< HEAD
       "updated_at": "2026-06-03T14:20:39.913674+00:00"
+=======
+      "updated_at": "2026-06-03T14:24:56.942029+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000263710",
@@ -6821,7 +6845,11 @@
       "modification_count": 0,
       "invoice_id": null,
       "data_collected_at": "2026-06-02T20:40:26.502580+00:00",
+<<<<<<< HEAD
       "draft_posted_at": "2026-06-03T14:20:43.171939+00:00",
+=======
+      "draft_posted_at": "2026-06-03T14:25:01.882616+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "invoice_created_at": null,
       "processed_reply_ids": null,
       "approved_by": null,
@@ -6829,7 +6857,11 @@
       "estimate_amount": 0,
       "deferred_until": null,
       "created_at": "2026-06-02T16:20:22.783553+00:00",
+<<<<<<< HEAD
       "updated_at": "2026-06-03T14:20:43.245081+00:00"
+=======
+      "updated_at": "2026-06-03T14:25:01.961058+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000259818",
@@ -8523,7 +8555,11 @@
       "modification_count": 0,
       "invoice_id": null,
       "data_collected_at": "2026-06-02T22:16:23.323081+00:00",
+<<<<<<< HEAD
       "draft_posted_at": "2026-06-03T14:20:46.514396+00:00",
+=======
+      "draft_posted_at": "2026-06-03T14:25:06.401626+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "invoice_created_at": null,
       "processed_reply_ids": null,
       "approved_by": null,
@@ -8531,7 +8567,11 @@
       "estimate_amount": 0,
       "deferred_until": null,
       "created_at": "2026-06-02T16:20:32.662907+00:00",
+<<<<<<< HEAD
       "updated_at": "2026-06-03T14:20:46.589232+00:00"
+=======
+      "updated_at": "2026-06-03T14:25:06.478790+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000251157",
@@ -8729,7 +8769,11 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
+<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:19:36.041415+00:00",
+=======
+      "data_collected_at": "2026-06-03T14:23:56.883879+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -8737,8 +8781,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:47.864633+00:00",
       "updated_at": "2026-06-03T14:19:36.116546+00:00"
+=======
+      "created_at": "2026-06-03T14:23:08.795680+00:00",
+      "updated_at": "2026-06-03T14:23:56.963012+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284582",
@@ -8752,7 +8801,11 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
+<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:19:47.699711+00:00",
+=======
+      "data_collected_at": "2026-06-03T14:24:07.413826+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -8760,8 +8813,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:48.106401+00:00",
       "updated_at": "2026-06-03T14:19:47.832895+00:00"
+=======
+      "created_at": "2026-06-03T14:23:09.044193+00:00",
+      "updated_at": "2026-06-03T14:24:07.535868+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284581",
@@ -8775,7 +8833,11 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
+<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:19:59.950757+00:00",
+=======
+      "data_collected_at": "2026-06-03T14:24:19.932504+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -8783,8 +8845,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:48.405220+00:00",
       "updated_at": "2026-06-03T14:20:00.026584+00:00"
+=======
+      "created_at": "2026-06-03T14:23:09.332288+00:00",
+      "updated_at": "2026-06-03T14:24:20.011834+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284580",
@@ -8798,7 +8865,11 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
+<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:20:16.740846+00:00",
+=======
+      "data_collected_at": "2026-06-03T14:24:31.212657+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -8806,8 +8877,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:48.643405+00:00",
       "updated_at": "2026-06-03T14:20:16.815076+00:00"
+=======
+      "created_at": "2026-06-03T14:23:09.574784+00:00",
+      "updated_at": "2026-06-03T14:24:31.292290+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284579",
@@ -8821,7 +8897,11 @@
       "approval_message_id": null,
       "modification_count": null,
       "invoice_id": null,
+<<<<<<< HEAD
       "data_collected_at": "2026-06-03T14:20:29.066769+00:00",
+=======
+      "data_collected_at": "2026-06-03T14:24:42.335952+00:00",
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
       "draft_posted_at": null,
       "invoice_created_at": null,
       "processed_reply_ids": null,
@@ -8829,8 +8909,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:48.878872+00:00",
       "updated_at": "2026-06-03T14:20:29.139731+00:00"
+=======
+      "created_at": "2026-06-03T14:23:09.819142+00:00",
+      "updated_at": "2026-06-03T14:24:42.413021+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284578",
@@ -8852,8 +8937,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:49.173263+00:00",
       "updated_at": "2026-06-03T14:18:49.173263+00:00"
+=======
+      "created_at": "2026-06-03T14:23:10.102388+00:00",
+      "updated_at": "2026-06-03T14:23:10.102388+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284577",
@@ -8875,8 +8965,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:49.411948+00:00",
       "updated_at": "2026-06-03T14:18:49.411948+00:00"
+=======
+      "created_at": "2026-06-03T14:23:10.347113+00:00",
+      "updated_at": "2026-06-03T14:23:10.347113+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284576",
@@ -8898,8 +8993,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:49.702736+00:00",
       "updated_at": "2026-06-03T14:18:49.702736+00:00"
+=======
+      "created_at": "2026-06-03T14:23:10.627545+00:00",
+      "updated_at": "2026-06-03T14:23:10.627545+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284575",
@@ -8921,8 +9021,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:49.942082+00:00",
       "updated_at": "2026-06-03T14:18:49.942082+00:00"
+=======
+      "created_at": "2026-06-03T14:23:10.872325+00:00",
+      "updated_at": "2026-06-03T14:23:10.872325+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284574",
@@ -8944,8 +9049,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:50.232302+00:00",
       "updated_at": "2026-06-03T14:18:50.232302+00:00"
+=======
+      "created_at": "2026-06-03T14:23:11.154660+00:00",
+      "updated_at": "2026-06-03T14:23:11.154660+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284573",
@@ -8967,8 +9077,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:50.473990+00:00",
       "updated_at": "2026-06-03T14:18:50.473990+00:00"
+=======
+      "created_at": "2026-06-03T14:23:11.403953+00:00",
+      "updated_at": "2026-06-03T14:23:11.403953+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284572",
@@ -8990,8 +9105,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:50.714657+00:00",
       "updated_at": "2026-06-03T14:18:50.714657+00:00"
+=======
+      "created_at": "2026-06-03T14:23:11.653269+00:00",
+      "updated_at": "2026-06-03T14:23:11.653269+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284571",
@@ -9013,8 +9133,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:51.014904+00:00",
       "updated_at": "2026-06-03T14:18:51.014904+00:00"
+=======
+      "created_at": "2026-06-03T14:23:11.946184+00:00",
+      "updated_at": "2026-06-03T14:23:11.946184+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284570",
@@ -9036,8 +9161,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:51.257951+00:00",
       "updated_at": "2026-06-03T14:18:51.257951+00:00"
+=======
+      "created_at": "2026-06-03T14:23:12.193273+00:00",
+      "updated_at": "2026-06-03T14:23:12.193273+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284569",
@@ -9059,8 +9189,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:51.560599+00:00",
       "updated_at": "2026-06-03T14:18:51.560599+00:00"
+=======
+      "created_at": "2026-06-03T14:23:12.477998+00:00",
+      "updated_at": "2026-06-03T14:23:12.477998+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284568",
@@ -9082,8 +9217,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:51.802264+00:00",
       "updated_at": "2026-06-03T14:18:51.802264+00:00"
+=======
+      "created_at": "2026-06-03T14:23:12.725986+00:00",
+      "updated_at": "2026-06-03T14:23:12.725986+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284567",
@@ -9105,8 +9245,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:52.095496+00:00",
       "updated_at": "2026-06-03T14:18:52.095496+00:00"
+=======
+      "created_at": "2026-06-03T14:23:13.011129+00:00",
+      "updated_at": "2026-06-03T14:23:13.011129+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284566",
@@ -9128,8 +9273,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:52.340723+00:00",
       "updated_at": "2026-06-03T14:18:52.340723+00:00"
+=======
+      "created_at": "2026-06-03T14:23:13.261164+00:00",
+      "updated_at": "2026-06-03T14:23:13.261164+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284565",
@@ -9151,8 +9301,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:52.581724+00:00",
       "updated_at": "2026-06-03T14:18:52.581724+00:00"
+=======
+      "created_at": "2026-06-03T14:23:13.509276+00:00",
+      "updated_at": "2026-06-03T14:23:13.509276+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284564",
@@ -9174,8 +9329,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:52.895782+00:00",
       "updated_at": "2026-06-03T14:18:52.895782+00:00"
+=======
+      "created_at": "2026-06-03T14:23:13.800295+00:00",
+      "updated_at": "2026-06-03T14:23:13.800295+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284563",
@@ -9197,8 +9357,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:53.138350+00:00",
       "updated_at": "2026-06-03T14:18:53.138350+00:00"
+=======
+      "created_at": "2026-06-03T14:23:14.050022+00:00",
+      "updated_at": "2026-06-03T14:23:14.050022+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     },
     {
       "order_id": "1000284562",
@@ -9220,8 +9385,13 @@
       "sent_at": null,
       "estimate_amount": null,
       "deferred_until": null,
+<<<<<<< HEAD
       "created_at": "2026-06-03T14:18:53.430620+00:00",
       "updated_at": "2026-06-03T14:18:53.430620+00:00"
+=======
+      "created_at": "2026-06-03T14:23:14.337409+00:00",
+      "updated_at": "2026-06-03T14:23:14.337409+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
     }
   ],
   "status_counts": {
@@ -9231,5 +9401,9 @@
     "invoice_needed": 17
   },
   "total": 401,
+<<<<<<< HEAD
   "generated_at": "2026-06-03T14:22:33.134772+00:00"
+=======
+  "generated_at": "2026-06-03T14:25:37.058803+00:00"
+>>>>>>> af16850 (chore: update pipeline state [skip ci])
 }
